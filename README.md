@@ -38,8 +38,8 @@ s.
 
 <img width="246" height="134" alt="image" src="https://github.com/user-attachments/assets/d7fa95f2-866b-4646-a426-88c3dae84f97" />
 2. Start With Seed Keywords
-Seed keywords are short and general terms that describe the main topic of your website or article.
-For example, if your topic is SEO, [possible seed keywords](https://rootxhosting.com/) include:
+Seed keywords are short and general [terms that describe](https://rootxhosting.com/) the main topic of your website or article.
+For example, if your topic is SEO, possible seed keywords include:
 
 SEO
 Keyword research
