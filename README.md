@@ -23,6 +23,7 @@ Helps identify new content ideas
 Supports better SEO titles and headings
 Helps you understand search intent
 Can improve organic traffic over time
+
 <img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/e59bb7d5-c8f4-4b88-a419-8ca0b8f36d2b" />
 Now let’s look at 10 effective keyword strategies.
 
@@ -37,6 +38,7 @@ How to create an S3 bucket
 s.
 
 <img width="246" height="134" alt="image" src="https://github.com/user-attachments/assets/d7fa95f2-866b-4646-a426-88c3dae84f97" />
+
 2. Start With Seed Keywords
 Seed keywords are short and general [terms that describe](https://rootxhosting.com/) the main topic of your website or article.
 For example, if your topic is SEO, possible seed keywords include:
